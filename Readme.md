@@ -3,4 +3,4 @@ These codes are an example of the use of our proposed sensor fusion algorithm (P
 
 The Arduino code for the data extraction and circuit connection are included in the data section.
 
-Please contact Gabriela Bravo-Illanes (glbravo@uc.cl) if you have any question.
+The original paper can be found in https://ieeexplore.ieee.org/abstract/document/8857431
